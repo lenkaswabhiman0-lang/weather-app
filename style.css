@@ -14,7 +14,7 @@ body{
 }
 .mainBox{
     height: 500px;
-    width: 340px;
+    width: 350px;
     border-radius: 10px;
     background:linear-gradient(180deg,#1a2344,#8a4dad);
     display: flex;
