@@ -16,7 +16,7 @@ const mainBox2=document.querySelector(".mainBox2");
 const mainBox3=document.querySelector(".mainBox3");
 
 startBtn.addEventListener("click",()=>{
-    mainBox1.classList.add("inactive");
+    mainBox1.classList.add("active");
     mainBox2.classList.remove("inactive");
 })
 function changeIcon(weatherMain){
